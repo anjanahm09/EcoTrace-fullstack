@@ -1,0 +1,1 @@
+Import `EcoTrace-Local.postman_collection.json` into Postman. The included requests are starter smoke tests only. Execute them locally, save actual responses, and add automated assertions before presenting a test report. Demo credentials are for local prototype use only.

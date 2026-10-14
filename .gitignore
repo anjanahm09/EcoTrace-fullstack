@@ -1,0 +1,22 @@
+node_modules/
+frontend/dist/
+backend/target/
+.idea/
+.env
+*.iml
+application-local.properties
+.DS_Store
+# Environment and secrets
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build and generated files
+dist/
+target/
+
+# Local environment files
+.env
+.env.*
+!.env.example
